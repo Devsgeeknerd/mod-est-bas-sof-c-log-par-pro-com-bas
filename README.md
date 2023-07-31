@@ -7,7 +7,7 @@
 * [ ] [O Método `main()` em C.](https://github.com/Devsgeeknerd/cla-met-mai-c-est-bas-sof-c-log-par-pro-com-bas) &#128679;
 * [ ] [Declaração de Variáveis em C.](https://github.com/Devsgeeknerd/cla-dec-var-c-est-bas-sof-c-log-par-pro-com-bas) &#128679;
 * [ ] [Includes em C.](https://github.com/Devsgeeknerd/cla-inc-c-est-bas-sof-c-log-par-pro-com-bas) &#128679;
-* [ ] [Delimitadores de Blocos em C.](httS://github.com/Devsgeeknerd/cla-del-blo-c-est-bas-sof-c-log-par-pro-com-bas) &#128679;
+* [ ] [Delimitadores de Blocos em C.](https://github.com/Devsgeeknerd/cla-del-blo-c-est-bas-sof-c-log-par-pro-com-bas) &#128679;
 
 <!-- Informações -->
 ## &#8505; Informações
